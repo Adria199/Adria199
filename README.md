@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adria199
-- 👀 I’m interested in Front end technologies (Javascript, React, React Native, Node.Js, Typescript)
-- 🌱 I’m currently learning ...Javascript,React,Node.js,HTML,CSS
+- 👀 I’m interested in Front end technologies (Javascript, React, React Native, Typescript)
+- 🌱 I’m currently learning ...JavaScript/TypeScript,React,HTML,CSS
 - 💞️ I’m looking to collaborate on ... Developing softwares
 - 📫 How to reach me ... https://www.linkedin.com/in/adrian-guilherme-032185227/
 
